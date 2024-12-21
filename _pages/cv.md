@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed CV is available [here](../files/CV.pdf)
+Detailed CV is available [here](https://nithyabhasker.github.io/files/CV.pdf)
 
 Education
 ======
